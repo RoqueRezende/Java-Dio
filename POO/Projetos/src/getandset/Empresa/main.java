@@ -22,5 +22,5 @@ public class main {
         funcionario2.aumentarSalario(15);
 
         funcionario2.mostrarInformacoes();
-    }
+    } 
 }
